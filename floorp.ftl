@@ -4,9 +4,9 @@
 
 ###################################################################### about:Dialog #################################################################################
 
-about-floorp = <label data-l10n-name="floorp-browser-link">{ -brand-product-name }</label> is one of the domestic browsers developed in Japan. It is based on Firefox and continues to operate under <label data-l10n-name="ablaze-Link">{ -vendor-short-name }</label>, to improve the web. Want to help? <label data-l10n-name="helpus-donateLink">Make a donation</label>
-icon-creator = Icon creator <label data-l10n-name="browser-logo-twitter">@CutterKnife_</label> and <label data-l10n-name="brand-logo-twitter">@mwxdxx.</label>
-contributors = A list of <label data-l10n-name="about-contributor">contributors and Developers</label>
+about-floorp = <label data-l10n-name="floorp-browser-link">{ -brand-product-name }</label> ist ein Browser, der in Japan entwickelt wird. Er basiert auf Firefox und wird von <label data-l10n-name="ablaze-Link">{ -vendor-short-name }</label> betrieben, um das Web zu verbessern. Du möchstest das Projekt unterstützen? <label data-l10n-name="helpus-donateLink">Spenden Sie</label>
+icon-creator = Icon creator <label data-l10n-name="browser-logo-twitter">@CutterKnife_</label> und <label data-l10n-name="brand-logo-twitter">@mwxdxx.</label>
+contributors = Eine Liste von <label data-l10n-name="about-contributor">Mitwirkenden and Entwickler_innen</label>
 
 #################################################################### about:preferences ####################################################################
 
@@ -15,126 +15,126 @@ category-design =
     .tooltiptext = { pane-design-title }
 design-header = Design
 
-feature-requires-restart = A restart is required to apply changes
+feature-requires-restart = Um die Änderungen anzuwenden ist ein Neustart errforderlich
 
-tab-width = Minimum width of tabs
-preferences-tabs-newtab-position = New Tab position
+tab-width = Minimale Tab-Breite
+preferences-tabs-newtab-position = Neue Tab Position
 open-new-tab-use-default =
- .label = Open new tabs at default position
+ .label = Öffne neue Tabs an der Standartposition
 open-new-tab-at-the-end =
- .label = Open new tabs at the end of the Tab Bar
+ .label = Öffne neue Tabs am Ende der Tableiste
 open-new-tab-next-to-current =
- .label = Open new tabs next to the current tab
+ .label = Öffne neue Tabs neben dem aktuellen Tab
 enable-multitab = 
- .label = Enable multi-row tabs
+ .label = Aktiviere mehrzeilige Tabs
 multirow-tabs-limit = 
- .label = Enable row limit for multi-row tabs
+ .label = Aktiviere Zeilenlimit für mehrzeilige Tabs
 multirow-tabs-newtab = 
- .label = Place the "Open a new tab" button at the end of the lowest row of tabs
-multirow-tabs-value = Number of rows when multi-row tabs are enabled
+ .label = Plaziere den "neues Tab öffnen" Button am Ende der untersten Tab-Reihe
+multirow-tabs-value = Anzahl der Zeilen, wenn mehrzeilige Tabs aktiv sind
 enable-tab-sleep = 
- .label = Enable Sleeping Tabs
-tab-sleep-timeout-minutes-value = Tabs will sleep after being inactive for (minutes)
-tab-sleep-settings-button = Settings...
+ .label = Aktiviere Ruhezustand von Tabs
+tab-sleep-timeout-minutes-value = Tabs werden nach (Minuten) in den Ruhezustand versetzt
+tab-sleep-settings-button = Einstellungen...
 tab-sleep-settings-dialog-title =
- .title = Sleeping Tabs Settings
-tab-sleep-settings-dialog-excludehosts-label = Exclude hosts
-tab-sleep-settings-dialog-excludehosts-label-2 = Enter one host per line.
-tab-sleep-tab-context-menu-excludetab = Keep Tab awake
+ .title = Ruhezustand Tabs Einstellungen
+tab-sleep-settings-dialog-excludehosts-label = Exkludiere Hosts
+tab-sleep-settings-dialog-excludehosts-label-2 = Schreibe nur einen Host pro Zeile
+tab-sleep-tab-context-menu-excludetab = Behalte Tab Aktiv
 enable-floorp-workspace =
- .label = Enable Workspaces
-workspace-warring = Workspaces cannot be used with Tab Group add-ons. If you want to use tab group add-ons, please disable Workspaces and restart { -brand-short-name }.
+ .label = Aktiviere Arbeitsbereiche
+workspace-warring = Arbeitsbereiche können nicht zusammen mit Tab Gruppen Add-ons benutzt werden. Wenn du Tab Gruppen Add-ons benutzen möchtest, bitte deaktiviere Arbeitsbereiche und starte { -brand-short-name } neu.
 enable-tab-scroll-change =
- .label = Switch tabs by scrolling with your mouse
+ .label = Wechsel Tabs durch scrollen
 enable-tab-scroll-reverse =
- .label = Reverse direction of scrolling tabs
+ .label = Invertiere Richtung von scrollenden Tabs
 enable-tab-scroll-wrap =
- .label = Wrap scrolling tabs at the edge
+ .label = Breche scrollende Tabs am Ende um
 enable-double-click-block =
- .label = Close tabs when double-clicking them
+ .label = Schließe tabs per Doppelklick
 enable-show-pinned-tabs-title =
- .label = Show the title of pinned tabs
+ .label = Zeige Titel von angepinnten Tabs
 Mouse-side-button =
-  .label = Optimise browser for mouse with side buttons
+  .label = Optimiere Browser für Mäuse mit seitlichen Buttons
 
-tabbar-preference = Tab Bar
+tabbar-preference = Tab-Leiste
 
 None-mode = 
- .label= Normal mode
+ .label= Standart Verhalten
 
 hide-horizontality-tabs =
- .label= Hide tabs on Horizontal Tab Bar
+ .label= Verstecke Tabs bei horizontaler Tab-Leiste
 
 verticalTab-setting =
- .label = Optimise browser for Vertical Tab Bar
+ .label = Optimiere Browser für verticale Tab-Leiste
 
 move-tabbar-position =
- .label = Display Tab Bar underneath the Toolbar
+ .label = Zeige Tab-Leiste unter der Werkzeugleiste
 
 tabbar-on-bottom =
- .label = Display Tab Bar at the bottom of the window
+ .label = Zeige Tab-Leiste unten im Fenster an
 
 tabbar-favicon-color =
- .label = Color the Tab Bar using the current website's favicon color
+ .label = Färbe Tab-Leiste in der Farbe des aktuellen Favicons
 
-tabbar-style-preference = Tab Bar Style
+tabbar-style-preference = Tab-Leiste Style
 
 horizontal-tabbar =
- .label = Horizontal Tab Bar
+ .label = Horizontale Tab-Leiste
 
-tabbar-style-description = A restart of { -brand-short-name } is required to fully apply this setting.
+tabbar-style-description = Ein Neustart von { -brand-short-name } wird benötigt um diese Einstellung vollständig anzuwenden.
 multirow-tabbar =
- .label = Multi-Row Tab Bar
+ .label = Mehrzeilige Tab-Leiste
 vertical-tabbar =
- .label = Vertical Tab Bar (experimental)
-native-tabbar-tip = Sidebar add-ons and in-built sidebars cannot be used at the same time as Vertical Tabs as this leverages the Firefox sidebar.
+ .label = Verticale Tab-Leiste (experimentell)
+native-tabbar-tip = Seitenleiste Add-ons und eingebaute Seitenleisten können nicht gleichzeitig mit vertikalen Tabs verwendet werden, da beide dieselbe Firefox Seitenleiste verwenden.
 
 hover-vertical-tab =
- .label = Collapse Vertical Tab Bar
+ .label = Vertikale Tab-Leiste einklappen
 
 TST = Tree Style Tab
-about-TST = Tree Style Tab is a popular add-on that allows you to display tabs in a tree structure. Floorp 10 has a built-in this add-on. Please install the add-on restore Floorp 10's built-in Tree Style Tab.
+about-TST = Tree Style Tab ist eine populäre Erweiterung, die Tabs in einer Baum Struktur anzeigt. { -brand-product-name } 10 hatte diese Erweiterung eingebaut. Bitte installiere das Add-on um { -brand-product-name } 10s eingebautes Tree Style Tab wiederherzustellen.
 treestyletab-Settings = 
- .label = Collapse Tree Style Tab
+ .label = Tree Style Tab einklappen
 
-sidebar-reverse-position-toolbar = Show Sidebars on the other side
+sidebar-reverse-position-toolbar = Zeige Seitenleisten auf der anderen Seite
 
-bookmarks-bar-settings = Bookmarks Toolbar (only one option can be used at a time)
+bookmarks-bar-settings = Lesezeichen-Symbolleiste (Es kann immer nur eine Option ausgewählt werden)
 bookmarks-focus-mode =
- .label = Hide the Bookmarks Toolbar unless hovering over the navigation bar
+ .label = Verstecke die Lesezeichen-Symbolleiste. Zeige Sie beim hovern über die Menüleiste
 bookmarks-bottom-mode =
- .label = Show the Bookmarks Toolbar at the bottom of { -brand-short-name }
+ .label = Zeige die Lesezeichen-Symbolleiste unten von { -brand-short-name }
 
-nav-bar-settings = Toolbar
+nav-bar-settings = Menüleiste
 show-nav-bar-bottom =
- .label = Show the Toolbar at the bottom of { -brand-short-name } (experimental)
+ .label = Zeige die Menüleiste unten von { -brand-short-name } (experimentell)
 
 material-effect =
  .label = Allow Mica For Everyone to modify the browser design
 disable-extension-check-compatibility-option =
- .label = Do not check for compatibility with add-ons
-other-preference = Other Preferences
+ .label = Deaktiviere Prüfung der Kompatibilität von Add-ons
+other-preference = Weitere Einstellungen
 
 enable-userscript =
- .label = Enable legacy components
-about-legacy-components = Enabling this feature may cause unexpected bugs or fatal errors.
+ .label = Aktiviere legacy Komponenten
+about-legacy-components = Aktivierung dieses Features kann unerwartete Fehler verursachen.
 
 Search-positon-top =
- .label = Display the Find Bar at the top of the page
+ .label = Zeige die Suchleiste oben auf der Seite
 allow-auto-restart =
- .label = Restart automatically when settings that require a restart are changed
+ .label = Automatischer Neustart, wenn Einstellungen einen Neustart benötigen
 
 browser-rest-mode =
- .label = Enable Rest Mode shortcut (F9)
+ .label = Aktiviere Ruhezustand Modus Kurzbefehl (F9)
 
 disable-fullscreen-notification =
- .label = Do not show a notification when entering full screen
+ .label = Deaktiviere Benachrichtigungen im Vollbildmodus
 
 floorp-updater = { -brand-short-name } Updates
 enable-floorp-updater =
- .label = Check for { -brand-short-name } updates on startup
+ .label = Prüfe für { -brand-short-name } Updates beim Programmstart
 floorp-update-latest =
- .label = Notify me if { -brand-short-name } is up-to-date during automatic update checks
+ .label = Benachrichtige mich, wenn { -brand-short-name } aktuell ist, bei automatischer Updateprüfung
 
 ## Browser Theme
 
